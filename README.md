@@ -1,1 +1,1 @@
-# basics-of-programming
+# Homework for the «Basics of Programming» course
