@@ -1,1 +1,1 @@
-# Homework for the «Basics of Programming» course
+# Homework of the first semester for the «Basics of Programming» course
